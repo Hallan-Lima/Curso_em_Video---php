@@ -44,6 +44,5 @@ function andFunction($var) {
     return $var;
 }
 
-
 echo $query.$query_inf1.$query_inf2.$query_inf3.$query_inf4.$query_inf5;
 
