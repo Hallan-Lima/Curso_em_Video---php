@@ -16,14 +16,10 @@
     <br/><br/>
     <a href="exercicio - 3.php">
     <button >ir para a pagina exercicio 3</button></a>
+    <br/><br/>
+    <a href="function_query.php">
+    <button >Busca de query</button></a>
 
-
-    <?php
-    
-        include "exercicio - 3.php";
-        ola();
-    
-    ?>
 
 
 </body>
